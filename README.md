@@ -53,8 +53,9 @@ Contains product-level details for each order:
 - One-to-Many relationship (Orders → Details)
 - Enables detailed analysis across sales, profit, and categories
 
-## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+## 📊 Power BI Dashboard
+
+🔗 [View Power BI Dashboard](https://1drv.ms/u/c/6a556e094174400c/IQCjfUxdYSiURqTn8RaZ7OO2AUiViniUpiJCL1bqjOwicjc?e=xxvOUf)
 
 ## 📌 Author
 **Ashish Ranjan Tiwari**  
